@@ -1,0 +1,16 @@
+{
+  "token":"",
+  "id_entrada_saida":{
+      "Servidor":""
+  },
+  "embeds_color": {
+      "embed_primary": "#0080FF",
+      "embed_invisible": "#0080FF",
+      "embed_success": "#0080FF",
+      "embed_error": "#0080FF"
+    },
+    "chat_gpt":{
+      "key_openai":"",
+      "canal_id":"1153169025170415706"
+    }
+}
